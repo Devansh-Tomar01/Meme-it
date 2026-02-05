@@ -1,4 +1,4 @@
-# 🎭 Meme Generator
+# 🎭 Meme-it
 
 A modern, feature-rich web application for creating and customizing memes with popular templates. Built with vanilla HTML, CSS, and JavaScript.
 
